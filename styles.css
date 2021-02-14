@@ -1,0 +1,41 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0px;
+  padding: 0px;
+}
+.navButtton {
+  display: inline-block;
+  padding: 20px;
+}
+
+.headerarea {
+  display: flex;
+  height: 500px;
+  margin: 0px;
+  padding: 0px;
+  background-color: blueviolet;
+}
+.pagelogo {
+  align-content: flex-start;
+}
+
+.unorderdList {
+  width: 100%;
+}
+.header {
+  width: 100%;
+  display: flexbox;
+  text-align: right;
+}
+.navButtton {
+  font-family: PT Serif;
+  color: ivory;
+}
+.navButtton {
+  margin-right: 55px;
+}
+.imagelogo {
+  size: 20px;
+}
