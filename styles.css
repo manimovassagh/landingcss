@@ -30,12 +30,59 @@ body {
   text-align: right;
 }
 .navButtton {
-  font-family: PT Serif;
+  font-family: Open Sans;
   color: ivory;
+  text-decoration: none;
+}
+.unorderdList {
+  text-decoration: none;
 }
 .navButtton {
   margin-right: 55px;
 }
 .imagelogo {
-  size: 20px;
+  height: 120px;
+  width: auto;
+  padding: 0px;
+  border: 0px;
+}
+a:-webkit-any-link {
+  text-decoration: none;
+}
+a:hover {
+  color: lawngreen;
+}
+a {
+  color: ivory;
+}
+main {
+  padding: 0px;
+  margin: 0px;
+}
+.upperHeader {
+  height: 300px;
+  background-color: #010e22;
+  margin: 0px;
+  padding: 0px;
+}
+h1 {
+  padding: 0px;
+  margin: 0px;
+}
+.logobig {
+  display: flex;
+}
+div.header {
+  position: relative;
+  z-index: 0;
+}
+.compname {
+  font-family: Anton;
+  font-size: 70px;
+  position: relative;
+  bottom: 270px;
+  margin: 0px;
+  padding: 0px;
+  color: lightcyan;
+  margin-left: 30px;
 }
