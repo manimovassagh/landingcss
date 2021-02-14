@@ -60,7 +60,7 @@ main {
   margin: 0px;
 }
 .upperHeader {
-  height: 300px;
+  height: 0px;
   background-color: #053630;
   margin: 0px;
   padding: 0px;
@@ -78,11 +78,29 @@ div.header {
 }
 .compname {
   font-family: Roboto;
-  font-size: 70px;
+  font-size: 50px;
   position: relative;
   bottom: 270px;
   margin: 0px;
-  padding: 0px;
+  padding: 20px;
   color: lightcyan;
   margin-left: 30px;
+}
+.footer {
+  height: 200px;
+  color: aqua;
+  background-color: #22021f;
+}
+.blockchain {
+  padding: 0px;
+  margin: 0px;
+  text-align: center;
+  padding: 20px;
+}
+.subfooter {
+  align-content: center;
+}
+.blockchain {
+  font-family: Anton;
+  font-size: 200px;
 }
