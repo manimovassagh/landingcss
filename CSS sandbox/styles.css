@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+  
+}
+
+.sailplans {
+  display: inline-block;
+  text-align: center;
+  border: 2px gray solid;
+  width: 30%;
+  margin: 4px;
+  background-color: greenyellow;
+  font-family: Bebas Neue;
+  vertical-align: middle;
+}
+ul {
+    list-style-type: none;
+}
+.litag{
+    text-decoration: none;
+}
